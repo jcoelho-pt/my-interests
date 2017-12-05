@@ -42,5 +42,42 @@
 			<a class="promo__btn" href="#">Find more</a> -->
 			<a class="promo__go-next js-anchor" href="#team">Scroll down</a>
 	</section>
+
+	<script src="static/js/body.min.js"></script>
+	<script src="static/js/tether.min.js"></script>
+	<script src="static/js/bootstrap.min.js"></script>
+	<script src="static/js/animations.js"></script>
+	<script src="static/js/clipboard.min.js"></script>
+	<script type="text/javascript">
+			$('#emailRef').tooltip({
+			  trigger: 'click',
+			  placement: 'bottom'
+			});
+
+			function setTooltip(btn, message) {
+			  btn.tooltip('hide')
+			    .attr('data-original-title', message)
+			    .tooltip('show');
+			}
+
+			function hideTooltip(btn) {
+			  setTimeout(function() {
+			    btn.tooltip('hide');
+			  }, 1300);
+			}
+
+			var clipboard = new Clipboard('#emailRef');
+
+			clipboard.on('success', function(e) {
+			    var btn = $(e.trigger);
+			  setTooltip(btn, "Email copied to clipboard");
+			  hideTooltip(btn);
+			});
+
+			var slideIndex = 0;
+			showSlides();
+			var slideIndex2 = 0;
+			showSlides2();
+	</script>
 </body>
 </html>
