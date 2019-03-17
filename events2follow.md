@@ -31,3 +31,14 @@ https://www.euroscipy.org/
 https://twitter.com/pythonbrasil
 
 [Python Brasil - YouTube channel](https://www.youtube.com/channel/UCiCQrFh8ckR_LXQyOAsOZiw)
+
+#### PyConIE - Ireland's Python Conference
+https://pyconie18.python.ie/  |  [YouTube](https://www.youtube.com/channel/UCXlA9u2VPI9nIALNUBF0Nzw)
+
+#### PyData Events
+https://twitter.com/PyData  |  https://www.youtube.com/user/PyDataTV  |  https://github.com/pydata |
+
+#### New Zealand Python Group
+Python events, meetups at New Zealand (Kiwi.com, etc.)
+
+[YouTube channel](https://www.youtube.com/channel/UCJ_gIPLffA7ZTYc5gOV6MgA/featured)
