@@ -30,6 +30,9 @@ https://www.euroscipy.org/
 #### PyConUK
 http://2019.pyconuk.org/  | [YouTube](https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog)
 
+#### PyConUS
+https://us.pycon.org/2019/  | [PyConUS 2018 - YouTube](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos) 
+
 #### Python Brasil
 https://twitter.com/pythonbrasil
 
