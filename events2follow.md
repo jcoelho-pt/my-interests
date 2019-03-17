@@ -5,7 +5,7 @@ Yearly event in Basel, Switzerland. [Twitter - @GeoPythonConf](https://twitter.c
 
 GeoPython 2019 - 24-26 June - http://2019.geopython.net/
 
-GeoPython 2018 - http://2018.geopython.net/
+GeoPython 2018 - http://2018.geopython.net/  |  http://www.unigis.es/geopython-2018/
 
 
 
