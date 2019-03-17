@@ -26,3 +26,8 @@ https://www.euroscipy.org/
 [PyConEs 2018 - YouTube channel](https://www.youtube.com/watch?v=UZe5rEf0zWM&list=PLKxa4AIfm4pUQX9ePOy3KEpENDC331Izi)
 
 [GitHub PyConEs 2018 - Presentations, Workshops, data...](https://github.com/python-spain/PyConES-2018-data)
+
+#### Python Brasil
+https://twitter.com/pythonbrasil
+
+[Python Brasil - YouTube channel](https://www.youtube.com/channel/UCiCQrFh8ckR_LXQyOAsOZiw)
