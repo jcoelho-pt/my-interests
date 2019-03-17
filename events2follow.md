@@ -17,4 +17,5 @@ GeoPython 2018 - http://2018.geopython.net/  |  http://www.unigis.es/geopython-2
 
 #### PyConEs
 [PyConEs 2019 - 04-06 October Alicante](https://2019.es.pycon.org/)
+
 [GitHub PyConEs 2018 - Presentations, Workshops, data...](https://github.com/python-spain/PyConES-2018-data)
