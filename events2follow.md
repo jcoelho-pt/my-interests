@@ -14,3 +14,7 @@ GeoPython 2018 - http://2018.geopython.net/  |  http://www.unigis.es/geopython-2
 [EuroPython 2019 - 8-14 July](https://ep2019.europython.eu/)
 
 [EuroPython 2018 - YouTube channel](https://www.youtube.com/watch?v=LoRq9yGeBWY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5) | [Link List for YouTube Videos](https://github.com/sploitable/EuroPython-2018-Conference-Talk-Videos/blob/master/README.md)
+
+#### PyConEs
+[PyConEs 2019 - 04-06 October Alicante](https://2019.es.pycon.org/)
+[GitHub PyConEs 2018 - Presentations, Workshops, data...](https://github.com/python-spain/PyConES-2018-data)
