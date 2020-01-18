@@ -16,3 +16,6 @@ Is a management book by **Jim C. Collins** that describes how companies transiti
 ## TECH & FUTURISM
 **To Be a Machine - Adventures Among Cyborgs, Utopians, Hackers, and the Futurists Solving the Modest Problem of Death** (2017)  
 by Slate columnist and literary journalist **Mark O'Connell**. The book is a breezy, but skeptical, gonzo-journalistic tour of transhumanism and radical life extension. It chronicles O'Connell's travels around the world to interview prominent transhumanists.
+
+**Whiplash: How to Survive Our Faster Future** (2019)
+by **Joi Ito** this guide shares nine principles to adapt and survive the technological changes shaping our future from the director of the MIT Media Lab and a veteran Wired journalist.
